@@ -1,11 +1,13 @@
-# ☕Coffee Sales Dashboard
-### About This Project
+# ☕Coffee Sales Analysis Dashboard
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsbCf_djzqznhcYfnXzYipNyVWsObjPpGYA&s))
+
+## About This Project
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.
 I have created a dashboard which can help me discuss the operations of these stores with my higher-ups. This will be done solely to optimize the operations.
 
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwsbCf_djzqznhcYfnXzYipNyVWsObjPpGYA&s))
-
-### Key Insights
+## Technonogy Used
+• Microsoft Excel
+## Key Insights
 •  Revenue Trends <br>
 •  Busiest Days <br>
 • Busiest Hours <br>
@@ -22,5 +24,7 @@ This is trend is similar for all the stores.
 
 The top category is coffee and the product is Barista Espresso across the board.
 
-### Data Story -
-I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. Also, the merchandise clothing for Astoria is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
+## Data Story - 
+
+I have noticed that the bottom products for all the stores include some flavours and other products like coffee beans. <br>
+Also, the merchandise clothing for Hell's Kitchen is way less as compared to other stores. We shall provide some discount offers to this store to increase sales. <br>Or else completely remove it from displaying at this store and keep it available on order only. This shall help us reduce costs of operations.
