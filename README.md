@@ -1,5 +1,7 @@
 # ☕Coffee Sales Analysis Dashboard
 ![image](https://t3.ftcdn.net/jpg/01/29/93/68/360_F_129936834_Bfn9q5eyPwwXpP2MexPbIkGekW60U3tW.jpg))
+<img src="https://t3.ftcdn.net/jpg/01/29/93/68/360_F_129936834_Bfn9q5eyPwwXpP2MexPbIkGekW60U3tW.jpg" height="200">
+
 
 ## About This Project
 This dashboard is for presenting my insights to the regional manager of the coffee chain with 3 different stores.
