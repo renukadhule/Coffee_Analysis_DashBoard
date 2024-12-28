@@ -1,6 +1,5 @@
 # ☕Coffee Sales Analysis Dashboard
-![image](https://t3.ftcdn.net/jpg/01/29/93/68/360_F_129936834_Bfn9q5eyPwwXpP2MexPbIkGekW60U3tW.jpg))
-<img src="https://t3.ftcdn.net/jpg/01/29/93/68/360_F_129936834_Bfn9q5eyPwwXpP2MexPbIkGekW60U3tW.jpg" height="200">
+<img src="https://t3.ftcdn.net/jpg/01/29/93/68/360_F_129936834_Bfn9q5eyPwwXpP2MexPbIkGekW60U3tW.jpg" height="300" width= "990">
 
 
 ## About This Project
